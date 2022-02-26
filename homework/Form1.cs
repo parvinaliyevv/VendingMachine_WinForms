@@ -104,7 +104,9 @@ namespace homework
             foreach (Snack snack in listBox1.Items) sumPrice += snack.Price;
 
             textBox1.Text = sumPrice.ToString();
-            textBox2.Text = (currentMoney - sumPrice).ToString();
+            
+            if (currentMoney - sumPrice < 0) textBox2.Text = "0";
+            else textBox2.Text = (currentMoney - sumPrice).ToString();
 
             button1.Enabled = (currentMoney - sumPrice >= 0) ? true : false;
         }
