@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P/KsfZ2VI80NX4nZQVOk+ZZjdwmwDipSYgjBtZVjOIaE4vxZpBXsuT34Usf/aOlcPIHytiYI7gPCnoizv5Z/fQ==",
+  "dgSpecHash": "BvMFpCoVyj9wQDvrslTYZirURkjaOrI43lBZtVjOdLz9RWpBfmPmhUrreZSjqaSEOSvqUQqMeOzVIgeys3CngA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\homework\\homework\\homework.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\New folder\\WinForm-Homework_21.02.2022\\homework\\homework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
